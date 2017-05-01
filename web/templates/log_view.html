@@ -1,0 +1,43 @@
+<!-- template from bootstrap: http://getbootstrap.com/2.3.2/examples/hero.html# -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">My Portfolio</a>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+      	{% for logs in portfolio %}
+        <div class="span4">
+	  <h2>Commit</h2>
+	  <p>Date: {{logs['date']}}</p>
+          <p>author: {{logs['author']}}</p>
+	  <p>revision: {{logs['revision']}}</p>
+          <p>Message: {{logs['msg']}}</p>
+	  <p><a class="btn" href="/projects/{{logs['revision']}}">View Revision's files</a></p>
+        </div>
+        {% endfor %}
+      </div>
+      <hr>
+    </div>
+  </body>
+</html>

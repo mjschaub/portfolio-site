@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment2.1</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Actor.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/CreateGraph.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/Graph.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/GraphVis.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/Graph_API.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Movie.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Test_Api.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Test_Graph.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Testing Plan Assignment #2.docx</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/graph_data.json</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/graph_setup.log</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/graphics.py</path>
+</paths>
+<msg>importing assignment 2.1</msg>
+</logentry>
+</log>

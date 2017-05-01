@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/mjschau2">
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Actor.py</name>
+<size>1623</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CreateGraph.py</name>
+<size>10006</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph.py</name>
+<size>6109</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/GraphVis.py</name>
+<size>3241</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph_API.py</name>
+<size>5789</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Movie.py</name>
+<size>1213</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Test_Api.py</name>
+<size>4748</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Test_Graph.py</name>
+<size>6907</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Testing Plan Assignment #2.docx</name>
+<size>2144698</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph_data.json</name>
+<size>63064</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph_setup.log</name>
+<size>501466</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graphics.py</name>
+<size>31554</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+</list>
+</lists>

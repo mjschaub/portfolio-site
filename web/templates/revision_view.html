@@ -1,0 +1,62 @@
+<!-- template from bootstrap: http://getbootstrap.com/2.3.2/examples/hero.html# -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">My Portfolio</a>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+	  <div class="hero-unit">
+	    <div class="row">
+	      {% for file in files %}
+                <div class="span4">
+	        {% if file['kind'] == "dir" %}
+		{% if file['path']|length >= 32 %}
+	        <h4>{{file['path'][0:32]+'...'}}</h4>
+		{% else %}
+		<h4>{{file['path']}}</h4>
+	        {% endif %}
+		{% endif %}
+	        {% if file['kind'] != "dir" %}
+		{% if file['path']|length >= 43 %}
+        	<h6>File: {{file['path'][0:43]}}</h6>
+		<h6>{{file['path'][43:]}}</h6>
+		{% else %}
+		<h6>File: {{file['path']}}</h6>
+		{% endif %}
+	        <p>size: {{file['size']}}</p>
+	        {% endif %}
+                <p>Type of file: {{file['kind']}}</p>
+	        <p>Action: {{file['action']}}</p>
+	        {% if (file['kind'] != "dir" and file['action'] != "D") %}
+                <p><a class="btn" href="/projects/{{revision_num}}/{{file['file_id']}}">View File</a></p>
+		{% else %}
+		<hr width="66%">
+	        {% endif %}
+	        </div>
+               {% endfor %}
+	    </div>
+	  </div>
+      <hr>
+    </div>
+  </body>
+</html>

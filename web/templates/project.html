@@ -1,0 +1,124 @@
+<!-- template from bootstrap: http://getbootstrap.com/2.3.2/examples/hero.html -->
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap.css" rel="stylesheet">
+    <link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function()
+    {
+	$(".reply").click(function() 
+	{
+    		var item =  $(this).attr('href');
+    		$(item).slideToggle(300);
+		$(item).css("visibility", "visible");
+ 	});
+    });
+    </script>
+    <style type="text/css">
+      body {
+        padding-top: 60px;
+        padding-bottom: 40px;
+      }
+     .reply {
+    	display: block;
+    	text-decoration: none;
+    	padding: 5px 40px;
+    	margin: 2px 0;}
+
+     .replymessage {
+    	border: 1px solid #ddd;
+    	background: #eee;
+    	display: block;
+    	height: 300px;
+    	padding: 10px;}
+
+     .hidden { visibility: hidden;
+		display: none; }
+    </style>
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/">My Portfolio</a>
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="hero-unit">
+	{% if file != None %}
+	{% if path|length >= 80 %}
+        <h3>{{path[0:80]+'...'}}</h3>
+	{% else %}
+	<h3>{{path}}</h3>
+	{% endif %}
+        <div class="brand">
+	<iframe src="{{file}}" width=100% height="500">iframe couldn't be loaded</iframe>
+	{% endif %}
+	</div>
+      </div>
+    </div>
+
+    <div class="container">
+ 
+         <form class="form-signin" action="/projects/{{revision_num}}/{{file_id}}" method="post" role="form">
+             <h2 class="form-signin-heading">Write Comment</h2>
+             <input type="username" name="username" class="form-control" placeholder="Name" required autofocus><br>
+             <textarea type="comment" name="comment" class="form-control" rows=6 cols=100 placeholder="write your comment here" required></textarea>
+	     <input type=hidden size=0 name=type-of-comment value="normalComment">
+             <input class="btn btn-lg btn-primary btn-block" type=submit value=Post>
+         </form>
+    </div>
+
+
+  <div class="container">
+    <div class="row">
+      	{% for comment in page_comments %}
+	        <span class="g-hovercard">
+	          <strong>user: {{comment['user']}}</strong>
+	          <p>comment: {{comment['comment']|safe}}</p>
+		</span>
+		     <div class="replymessage hidden" id="message{{comment['_id']}}">
+	          	<form class="form-signin" action="/projects/{{revision_num}}/{{file_id}}" method=post role="form">
+			      <h2 class="form-signin-heading">Write Comment</h2>
+             			<input type="username" name="username" class="form-control" placeholder="Name" required autofocus><br>
+             			<textarea type="comment" name="comment" class="form-control" rows=6 cols=100 placeholder="write your comment here" required></textarea>
+	     			<input type=hidden size=0 name=type-of-comment value="{{comment['_id']}}">
+             			<input class="btn btn-lg btn-primary btn-block" type=submit value=Post>
+         		</form>
+		    </div>
+		    
+			<a href="#message{{comment['_id']}}" class="btn btn-lg btn-block reply" value=Reply>Reply</a>
+			
+		    	{% for reply in comment['replies'] %}
+			<div class="reply">
+		    		
+			    		<span>
+			    		<strong>user: {{reply['user']}}</strong>
+			    		<p>comment: {{reply['comment']}}</p>
+			    		</span>
+		    		
+				<div class="replymessage hidden" id="message{{reply['_id']}}">
+	          	<form class="form-signin" action="/projects/{{revision_num}}/{{file_id}}" method=post role="form">
+			      <h2 class="form-signin-heading">Write Comment</h2>
+             			<input type="username" name="username" class="form-control" placeholder="Name" required autofocus><br>
+             			<textarea type="comment" name="comment" class="form-control" rows=6 cols=100 placeholder="write your comment here" required></textarea>
+	     			<input type=hidden size=0 name=type-of-comment value="{{reply['_id']}}">
+             			<input class="btn btn-lg btn-primary btn-block" type=submit value=Post>
+         		</form>
+		    		</div>
+		    </div>
+			<a href="#message{{reply['_id']}}" class="btn btn-lg btn-block reply" value=Reply>Reply</a>
+		    	{% endfor %}
+        {% endfor %}
+    </div>
+  </div>
+  </body>
+</html>

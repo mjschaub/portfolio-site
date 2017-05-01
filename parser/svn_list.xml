@@ -1,0 +1,4846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp17-cs242/mjschau2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/HEAD</name>
+<size>23</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/branches</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/config</name>
+<size>276</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/description</name>
+<size>73</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/hooks</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/applypatch-msg.sample</name>
+<size>478</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/commit-msg.sample</name>
+<size>896</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/post-update.sample</name>
+<size>189</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-applypatch.sample</name>
+<size>424</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-commit.sample</name>
+<size>1642</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-push.sample</name>
+<size>1348</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/pre-rebase.sample</name>
+<size>4898</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/prepare-commit-msg.sample</name>
+<size>1239</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/hooks/update.sample</name>
+<size>3610</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/index</name>
+<size>2354</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/info</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/info/exclude</name>
+<size>240</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/HEAD</name>
+<size>192</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/heads</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/refs/heads/master</name>
+<size>192</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/remotes</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/logs/refs/remotes/origin</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/logs/refs/remotes/origin/HEAD</name>
+<size>192</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/04</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/04/b99ab56aff35f670ae092d497300b5abc9f4de</name>
+<size>1027</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/07</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/07/e7531d85c49cacef7018a9aa8e40c17ab340e3</name>
+<size>123</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/0b</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/0b/db141c34f30fb36fc4ededf290b80be8dde768</name>
+<size>130</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/0f</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/0f/41d1fdda89265336fed3890fbf5042da4ea800</name>
+<size>1498</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/14</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/14/3bccafae09c31ce5d994f2107cb82a1f0929d9</name>
+<size>16780</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/14/cc4f400e38987bd12eb9bd39377e5ca3c0a4dd</name>
+<size>1469</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/15</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/15/43d9c2b8b3fd3410b308be256665e78957b0cc</name>
+<size>195</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/1b</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/1b/b48c411d082316f9a0dbb0706652a560c8ec0b</name>
+<size>7116</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/1e</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/1e/8278dc98b85ea143fb643e4c9780266feca8a9</name>
+<size>458</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/22</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/22/b19fa856be7507f8968f25bbf0a9ba161edb55</name>
+<size>344</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/22/b608b2a2ad682a35eb6fbac4b7f080b5a708d2</name>
+<size>1144</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/27</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/27/ba77dd65f89634ab3319497b7b3556d20475eb</name>
+<size>189</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/2a</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/2a/2fe93846dbce248f46076845dedb40496d8732</name>
+<size>412</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/31</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/31/e54784ecbc84752bded88256aa4d645ccdb9b3</name>
+<size>50984</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/31/f90d0fa7bbe7ff93b16908f298e029a7589bf1</name>
+<size>38</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/3a</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/3a/48ca124a56fdff4aed10d94f6c62656a500588</name>
+<size>188</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/3a/a6f765b0e18665917b83b58782313713f19876</name>
+<size>130</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/3e</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/3e/48f5866ea9ecc373ed491a6cee8abc9e6a3962</name>
+<size>442</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/40</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/40/ccefc0c8cca99b8728b614653603712b59cd66</name>
+<size>402</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/42</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/42/f06908ab48f98251482e455e7af1a7932f2531</name>
+<size>971</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/43</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/43/00144190a729fcad1afa45d1e00c46464722de</name>
+<size>8557</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/46</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/46/5b32dddaa3ba048bd3b1a2693c99183b2856f3</name>
+<size>611</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/48</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/48/25c3bfe731d8e3dc0495e2c91543023c2ba24b</name>
+<size>199</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/4c</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/4c/2f96892e2e0ac4580b0b64a6394b42981cdd8c</name>
+<size>1970</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/4f</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/4f/7722c1b73e2aa85f5c5aaf9047127d85cf5c1d</name>
+<size>7258</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/57</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/57/7ba3c9e4ee5835f03ffd2ad35a0840d327b2e2</name>
+<size>190</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/5b</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/5b/5c1245d857f61c24699dd344efdab6dd297ef0</name>
+<size>971</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/5e</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/5e/29598d8243704fe0def767025d4b3e3b4cc8e5</name>
+<size>1026</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/64</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/64/fac914adb224038d9c0d8220104911e902af64</name>
+<size>458</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/69</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/69/a5c1d0af3876957084608046c7ca66c967e489</name>
+<size>53</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/6a</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/6a/7a3e3568133d2731bde2e776859030d7818b76</name>
+<size>971</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/72</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/72/00078d98737b8f97e55963aa3c93bb00861805</name>
+<size>970</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/76</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/76/d05f9b57e65f3c94a23a4efb5124e96794f2e9</name>
+<size>15974849</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/7c</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/7c/15c3f1c5229ae891914840dd8fa06d6badf18b</name>
+<size>51</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/7d</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/7d/fc2e99d7ff7755d3caf0bba3e8c0d82e23dc49</name>
+<size>1750197</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/85</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/85/e0a798ee70859cfcf1131b80b34cc0f7874cc7</name>
+<size>1036</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/89</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/89/cdb693ad78a12b568b4a6f0df8a756804677e2</name>
+<size>1000</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/8e</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/8e/17c07e37b6496447271c4eb823623ef830a4ad</name>
+<size>169</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/8f</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/8f/5db0e141f9bde3e216673932351ed5269f809a</name>
+<size>190</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/93</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/93/dac18e155410b6e8494cea7dd2f456e78e01b1</name>
+<size>4694600</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/97</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/97/58273268f55dba00d24df9c467baa543eba003</name>
+<size>137</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/a5</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/a5/12e4f08904de164bdacdd21d791f2424f887bf</name>
+<size>159</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/a8</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/a8/c93faa9ef41c57bd637e292435f6dc25b376ec</name>
+<size>971</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/aa</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/aa/368d877d9cf91726b1972169fc7c7bbbfcd21a</name>
+<size>972</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/bb</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/bb/5fe2dfd0995e493183db21b74301ec347ab7bc</name>
+<size>163</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/bd</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/bd/5f25926a34cb78108b6911536376a4199ff37b</name>
+<size>38</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/c7</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/c7/cf7dc2439c927fdd7b41cf1732badd66d131a8</name>
+<size>805</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/cb</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/cb/9baacd9fb6dc1f3d8a2a229e3486a21fbb9a0b</name>
+<size>121</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/cc</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/cc/17a2239edb7bcb033bd9660333b7c4182232d9</name>
+<size>442</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/d1</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/d1/15d871522bfab53a432a09972d10820b8ad4e1</name>
+<size>874</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/d1/ca649e80b6a8520a8fd516a5ae7ad8cc3c49a8</name>
+<size>1227</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/e1</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/e1/50d093e2a944a535556ddf1707e60b55770f96</name>
+<size>1282</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/e4</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/e4/48140509f19e889b68d1919d71fc5367fbe279</name>
+<size>2112</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/ea</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/ea/50836bb5a2ab838deaa8e74d746314eeede04c</name>
+<size>190</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/f5</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/f5/2b14ebdc40d37164138ca8042fe23cf2496cd1</name>
+<size>2030</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/fe</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/objects/fe/e8ad29f81512d84f30e3c6e611981c57bf2905</name>
+<size>189</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/info</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/objects/pack</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/packed-refs</name>
+<size>107</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/heads</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/refs/heads/master</name>
+<size>41</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/remotes</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/remotes/origin</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.git/refs/remotes/origin/HEAD</name>
+<size>32</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.git/refs/tags</name>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/2D_test.py</name>
+<size>296</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Project Proposal.docx</name>
+<size>19674</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Python Game Project.pptx</name>
+<size>63720</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/README.md</name>
+<size>810</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Waterflame - Space pirates houseloop-[www_flv2mp3_com].mp3</name>
+<size>1773456</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/arrow.png</name>
+<size>1123</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/black_square.png</name>
+<size>133</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/brick_tile.png</name>
+<size>335</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/constants.py</name>
+<size>47</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/damaged_brick.png</name>
+<size>594</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/damaged_brick_2.png</name>
+<size>1015</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/enemy_1.png</name>
+<size>1206</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/game_objects.py</name>
+<size>3141</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/game_runner.py</name>
+<size>2646</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/gold.png</name>
+<size>1428</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/maze</name>
+<size>56234</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/maze.py</name>
+<size>58416</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/pathfinder.py</name>
+<size>1429</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/pygame-1.9.2pre.win-amd64-py2.7.exe</name>
+<size>4848867</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/python-2.7.3.amd64.msi</name>
+<size>16420864</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/test.py</name>
+<size>157</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/walk_1.png</name>
+<size>1949</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/walk_2.png</name>
+<size>2091</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/walk_3.png</name>
+<size>2009</size>
+<commit
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.classpath</name>
+<size>414</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.project</name>
+<size>368</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.settings</name>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>6597</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/bin</name>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/AllTests.class</name>
+<size>443</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Bishop.class</name>
+<size>661</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Board.class</name>
+<size>4776</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/BoardTest.class</name>
+<size>3310</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/GameFrame$BoardSetup.class</name>
+<size>1120</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/GameFrame$TileSetup.class</name>
+<size>1213</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/GameFrame.class</name>
+<size>1540</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/GameLoop.class</name>
+<size>672</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/King.class</name>
+<size>1645</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Knight.class</name>
+<size>1455</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Pawn.class</name>
+<size>1716</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Piece.class</name>
+<size>2500</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/PieceTest.class</name>
+<size>4047</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Player.class</name>
+<size>791</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Queen.class</name>
+<size>1012</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/Rook.class</name>
+<size>649</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bBishop.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bKing.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bKnight.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bPawn.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bQueen.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/bRook.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wBishop.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wKing.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wKnight.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wPawn.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wQueen.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/bin/wRook.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/images</name>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bBishop.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bKing.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bKnight.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bPawn.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bQueen.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/bRook.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wBishop.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wKing.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wKnight.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wPawn.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wQueen.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/images/wRook.svg</name>
+<size>0</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/AllTests.java</name>
+<size>214</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Bishop.java</name>
+<size>961</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Board.java</name>
+<size>7149</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/BoardTest.java</name>
+<size>4019</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameFrame.java</name>
+<size>4856</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/GameLoop.java</name>
+<size>606</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/King.java</name>
+<size>2009</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Knight.java</name>
+<size>1717</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Pawn.java</name>
+<size>2229</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Piece.java</name>
+<size>3077</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/PieceTest.java</name>
+<size>3618</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Player.java</name>
+<size>1237</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Queen.java</name>
+<size>1164</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/Rook.java</name>
+<size>946</size>
+<commit
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/Doxyfile</name>
+<size>77197</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/board</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/Board.class</name>
+<size>5473</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/GameFrame.class</name>
+<size>2168</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/GameLoop.class</name>
+<size>1188</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/Player.class</name>
+<size>803</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/board/image</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bBishop.png</name>
+<size>1260</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bKing.png</name>
+<size>2485</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bKnight.png</name>
+<size>1516</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bPawn.png</name>
+<size>797</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bPawship.png</name>
+<size>1246</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bQueen.png</name>
+<size>2267</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bRider.png</name>
+<size>700</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/bRook.png</name>
+<size>725</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wBishop.png</name>
+<size>1944</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wKing.png</name>
+<size>2279</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wKnight.png</name>
+<size>1878</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wPawn.png</name>
+<size>1294</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wPawship.png</name>
+<size>1969</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wQueen.png</name>
+<size>2637</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wRider.png</name>
+<size>908</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/board/image/wRook.png</name>
+<size>933</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/pieces</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Bishop.class</name>
+<size>682</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/King.class</name>
+<size>1666</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Knight.class</name>
+<size>1476</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Pawn.class</name>
+<size>1737</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Pawship.class</name>
+<size>1289</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Piece.class</name>
+<size>2514</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Queen.class</name>
+<size>1033</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Rider.class</name>
+<size>1208</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/pieces/Rook.class</name>
+<size>670</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/bin/tests</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/AllTests.class</name>
+<size>467</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/BoardTest.class</name>
+<size>3517</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/bin/tests/PieceTest.class</name>
+<size>4914</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/image</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bBishop.png</name>
+<size>1260</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bKing.png</name>
+<size>2485</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bKnight.png</name>
+<size>1516</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bPawn.png</name>
+<size>797</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bPawship.png</name>
+<size>1246</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bQueen.png</name>
+<size>2267</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bRider.png</name>
+<size>700</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/bRook.png</name>
+<size>674</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wBishop.png</name>
+<size>1944</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wKing.png</name>
+<size>2279</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wKnight.png</name>
+<size>1878</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wPawn.png</name>
+<size>1294</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wPawship.png</name>
+<size>1969</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wQueen.png</name>
+<size>2637</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wRider.png</name>
+<size>908</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/image/wRook.png</name>
+<size>933</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/images</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/board</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Board.java</name>
+<size>8153</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/GameFrame.java</name>
+<size>5304</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/GameLoop.java</name>
+<size>1419</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/Player.java</name>
+<size>1252</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/board/image</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bBishop.png</name>
+<size>1260</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bKing.png</name>
+<size>2485</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bKnight.png</name>
+<size>1516</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bPawn.png</name>
+<size>797</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bPawship.png</name>
+<size>1246</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bQueen.png</name>
+<size>2267</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bRider.png</name>
+<size>700</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/bRook.png</name>
+<size>725</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wBishop.png</name>
+<size>1944</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wKing.png</name>
+<size>2279</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wKnight.png</name>
+<size>1878</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wPawn.png</name>
+<size>1294</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wPawship.png</name>
+<size>1969</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wQueen.png</name>
+<size>2637</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wRider.png</name>
+<size>908</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/board/image/wRook.png</name>
+<size>933</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/pieces</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Bishop.java</name>
+<size>977</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/King.java</name>
+<size>2025</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Knight.java</name>
+<size>1733</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Pawn.java</name>
+<size>2245</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Pawship.java</name>
+<size>1196</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Piece.java</name>
+<size>2887</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Queen.java</name>
+<size>1180</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Rider.java</name>
+<size>1071</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/pieces/Rook.java</name>
+<size>962</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.1/src/tests</name>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/AllTests.java</name>
+<size>229</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/BoardTest.java</name>
+<size>5159</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.1/src/tests/PieceTest.java</name>
+<size>5554</size>
+<commit
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/ChessGameTestPlan.docx</name>
+<size>1167553</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/board</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/Board.class</name>
+<size>7515</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/GameFrame$1.class</name>
+<size>938</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/GameFrame$2.class</name>
+<size>927</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/GameFrame.class</name>
+<size>4064</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/GameLoop.class</name>
+<size>9960</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/board/image</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bBishop.png</name>
+<size>1260</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bKing.png</name>
+<size>2485</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bKnight.png</name>
+<size>1516</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bPawn.png</name>
+<size>797</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bPawship.png</name>
+<size>1246</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bQueen.png</name>
+<size>2267</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bRider.png</name>
+<size>700</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/bRook.png</name>
+<size>725</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wBishop.png</name>
+<size>1944</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wKing.png</name>
+<size>2279</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wKnight.png</name>
+<size>1878</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wPawn.png</name>
+<size>1294</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wPawship.png</name>
+<size>1969</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wQueen.png</name>
+<size>2637</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wRider.png</name>
+<size>908</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/board/image/wRook.png</name>
+<size>933</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/pieces</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Bishop.class</name>
+<size>682</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/King.class</name>
+<size>1666</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Knight.class</name>
+<size>1476</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Pawn.class</name>
+<size>2154</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Pawship.class</name>
+<size>1289</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Piece.class</name>
+<size>2514</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Queen.class</name>
+<size>1033</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Rider.class</name>
+<size>1208</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/pieces/Rook.class</name>
+<size>670</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/bin/tests</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/AllTests.class</name>
+<size>467</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/BoardTest.class</name>
+<size>3756</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/bin/tests/PieceTest.class</name>
+<size>4915</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/board</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/Board.java</name>
+<size>12243</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/GameFrame.java</name>
+<size>3936</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/GameLoop.java</name>
+<size>15025</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/board/image</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bBishop.png</name>
+<size>1260</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bKing.png</name>
+<size>2485</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bKnight.png</name>
+<size>1516</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bPawn.png</name>
+<size>797</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bPawship.png</name>
+<size>1246</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bQueen.png</name>
+<size>2267</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bRider.png</name>
+<size>700</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/bRook.png</name>
+<size>725</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wBishop.png</name>
+<size>1944</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wKing.png</name>
+<size>2279</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wKnight.png</name>
+<size>1878</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wPawn.png</name>
+<size>1294</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wPawship.png</name>
+<size>1969</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wQueen.png</name>
+<size>2637</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wRider.png</name>
+<size>908</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/board/image/wRook.png</name>
+<size>933</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/pieces</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Bishop.java</name>
+<size>977</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/King.java</name>
+<size>2025</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Knight.java</name>
+<size>1733</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Pawn.java</name>
+<size>3005</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Pawship.java</name>
+<size>1196</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Piece.java</name>
+<size>2887</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Queen.java</name>
+<size>1180</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Rider.java</name>
+<size>1071</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/pieces/Rook.java</name>
+<size>962</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.2/src/tests</name>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/AllTests.java</name>
+<size>229</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/BoardTest.java</name>
+<size>5444</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.2/src/tests/PieceTest.java</name>
+<size>5643</size>
+<commit
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.0</name>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Actor.py</name>
+<size>1552</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/CreateGraph.py</name>
+<size>9798</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Graph.py</name>
+<size>4849</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Movie.py</name>
+<size>1150</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Node.py</name>
+<size>766</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/Test_Graph.py</name>
+<size>6907</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph_data.json</name>
+<size>34929</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.0/graph_setup.log</name>
+<size>501819</size>
+<commit
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment2.1</name>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Actor.py</name>
+<size>1623</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/CreateGraph.py</name>
+<size>10006</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph.py</name>
+<size>6109</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/GraphVis.py</name>
+<size>3241</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Graph_API.py</name>
+<size>5789</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Movie.py</name>
+<size>1213</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Test_Api.py</name>
+<size>4748</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Test_Graph.py</name>
+<size>6907</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/Testing Plan Assignment #2.docx</name>
+<size>2144698</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph_data.json</name>
+<size>63064</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graph_setup.log</name>
+<size>501466</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment2.1/graphics.py</name>
+<size>31554</size>
+<commit
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0</name>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/parser</name>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parser/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parser/project_data.json</name>
+<size>130424</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parser/svn_list.xml</name>
+<size>98935</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parser/svn_log.xml</name>
+<size>51179</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/parser/xml_parser.py</name>
+<size>3117</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/projects</name>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/projects/Project.py</name>
+<size>417</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/projects/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/projects/log_entry.py</name>
+<size>611</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/tests</name>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/tests/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/tests/testFlask.py</name>
+<size>3701</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/tests/testParser.py</name>
+<size>2262</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/tests/test_list.xml</name>
+<size>2664</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/tests/test_log.xml</name>
+<size>1239</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/web</name>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/__init__.py</name>
+<size>0</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/server.py</name>
+<size>904</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/web/static</name>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/web/static/css</name>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-grid.css</name>
+<size>25510</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-grid.css.map</name>
+<size>31527</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-grid.min.css</name>
+<size>18528</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-grid.min.css.map</name>
+<size>12300</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-reboot.css</name>
+<size>5916</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-reboot.css.map</name>
+<size>9322</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-reboot.min.css</name>
+<size>4707</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap-reboot.min.css.map</name>
+<size>2668</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap.css</name>
+<size>191738</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap.css.map</name>
+<size>235595</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap.min.css</name>
+<size>150996</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/css/bootstrap.min.css.map</name>
+<size>68044</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/web/static/js</name>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/js/bootstrap.js</name>
+<size>99753</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/static/js/bootstrap.min.js</name>
+<size>46653</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment3.0/web/templates</name>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/templates/index.html</name>
+<size>1617</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/templates/log_view.html</name>
+<size>2236</size>
+<commit
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment3.0/web/templates/project.html</name>
+<size>1242</size>
+<commit
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/LANSimulation.class</name>
+<size>4731</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/Network.class</name>
+<size>5537</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/internals</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Node.class</name>
+<size>4804</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/bin/lanSimulation/tests</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>898</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9536</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/doc</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/LANSimulation.java</name>
+<size>6073</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/Network.java</name>
+<size>8642</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/internals</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Node.java</name>
+<size>7668</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>HW0/src/lanSimulation/tests</name>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/src/lanSimulation/tests/LANTests.java</name>
+<size>10578</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>HW0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="524">
+<author>mjschau2</author>
+<date>2017-01-25T03:24:17.964017Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="511">
+<author>mjschau2</author>
+<date>2017-01-25T02:55:56.711094Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="519">
+<author>mjschau2</author>
+<date>2017-01-25T03:13:50.210266Z</date>
+</commit>
+</entry>
+</list>
+</lists>

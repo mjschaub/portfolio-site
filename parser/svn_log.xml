@@ -1,0 +1,1846 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7153">
+<author>mjschau2</author>
+<date>2017-03-13T15:49:32.809056Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/Assignment3.0/parser/project_data.json</path>
+<path
+   action="M"
+   kind="file">/mjschau2/Assignment3.0/parser/svn_list.xml</path>
+<path
+   kind="file"
+   action="M">/mjschau2/Assignment3.0/parser/svn_log.xml</path>
+<path
+   kind="file"
+   action="M">/mjschau2/Assignment3.0/parser/xml_parser.py</path>
+<path
+   kind="file"
+   action="M">/mjschau2/Assignment3.0/web/server.py</path>
+<path
+   action="M"
+   kind="file">/mjschau2/Assignment3.0/web/templates/log_view.html</path>
+</paths>
+<msg>made changes</msg>
+</logentry>
+<logentry
+   revision="7143">
+<author>mjschau2</author>
+<date>2017-03-13T15:16:18.857372Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/parser</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/parser/__init__.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/parser/project_data.json</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/parser/svn_list.xml</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/parser/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/parser/xml_parser.py</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/projects</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/projects/Project.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/projects/__init__.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/projects/log_entry.py</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/tests/__init__.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/tests/testFlask.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/tests/testParser.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/tests/test_list.xml</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/tests/test_log.xml</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/web</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/__init__.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/server.py</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/web/static</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/web/static/css</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap-grid.css</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap-grid.css.map</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap-grid.min.css</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap-grid.min.css.map</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/css/bootstrap-reboot.css</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/css/bootstrap-reboot.css.map</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/css/bootstrap-reboot.min.css</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/css/bootstrap-reboot.min.css.map</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap.css</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap.css.map</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap.min.css</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/static/css/bootstrap.min.css.map</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment3.0/web/static/js</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/js/bootstrap.js</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/static/js/bootstrap.min.js</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment3.0/web/templates</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/templates/index.html</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment3.0/web/templates/log_view.html</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment3.0/web/templates/project.html</path>
+</paths>
+<msg>importing assignment3.0</msg>
+</logentry>
+<logentry
+   revision="6401">
+<author>mjschau2</author>
+<date>2017-03-06T16:59:20.880790Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment2.1</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/Actor.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/CreateGraph.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/Graph.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/GraphVis.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Graph_API.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Movie.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Test_Api.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Test_Graph.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.1/Testing Plan Assignment #2.docx</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/graph_data.json</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/graph_setup.log</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.1/graphics.py</path>
+</paths>
+<msg>importing assignment 2.1</msg>
+</logentry>
+<logentry
+   revision="5820">
+<author>mjschau2</author>
+<date>2017-02-27T17:03:08.230423Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment2.0</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.0/Actor.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.0/CreateGraph.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.0/Graph.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.0/Movie.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.0/Node.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.0/Test_Graph.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment2.0/graph_data.json</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment2.0/graph_setup.log</path>
+</paths>
+<msg>importing assignment 2.0</msg>
+</logentry>
+<logentry
+   revision="5239">
+<author>mjschau2</author>
+<date>2017-02-20T17:08:45.954377Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/ChessGameTestPlan.docx</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/bin</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/bin/board</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/Board.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/GameFrame$1.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/GameFrame$2.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/GameFrame.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/GameLoop.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/bin/board/image</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/bKing.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/bKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/bPawn.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/bPawship.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/bRider.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/bRook.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/wBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/wKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/board/image/wPawn.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/wPawship.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/wRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/board/image/wRook.png</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/bin/pieces</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/pieces/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/pieces/King.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/pieces/Knight.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/pieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/pieces/Pawship.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/pieces/Piece.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/pieces/Queen.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/pieces/Rider.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/bin/pieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/bin/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/tests/AllTests.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/tests/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/bin/tests/PieceTest.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.2/src</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.2/src/board</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/Board.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/GameFrame.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/GameLoop.java</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/src/board/image</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/bBishop.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/bKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/bKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/bPawship.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/bQueen.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/bRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/bRook.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/wBishop.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/wKing.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/wKnight.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/wPawship.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/board/image/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/wRider.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/board/image/wRook.png</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/src/pieces</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/pieces/King.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Knight.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Pawship.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Piece.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/pieces/Queen.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/pieces/Rider.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/pieces/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.2/src/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/tests/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.2/src/tests/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.2/src/tests/PieceTest.java</path>
+</paths>
+<msg>importing assignment1.2</msg>
+</logentry>
+<logentry
+   revision="4207">
+<author>mjschau2</author>
+<date>2017-02-13T03:06:30.057659Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.1/bin</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.1/bin/board</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/Board.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/GameFrame.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/GameLoop.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/Player.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/bin/board/image</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/image/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bPawship.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bQueen.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/bRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/image/bRook.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/image/wBishop.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/image/wKing.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/board/image/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/wPawship.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/wRider.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/board/image/wRook.png</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.1/bin/pieces</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/pieces/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/pieces/King.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/pieces/Knight.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/pieces/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/pieces/Pawship.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/pieces/Piece.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/pieces/Queen.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/pieces/Rider.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/bin/pieces/Rook.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.1/bin/tests</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/tests/AllTests.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/tests/BoardTest.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/bin/tests/PieceTest.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/image</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/bKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/bKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/bPawship.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/bRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/bRook.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/wBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wPawship.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wQueen.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/image/wRider.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/image/wRook.png</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/images</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/src/board</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/Board.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/GameFrame.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/GameLoop.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/Player.java</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment1.1/src/board/image</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bBishop.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/bKing.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bKnight.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/bPawship.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bQueen.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/bRook.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/wBishop.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/wKing.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/wKnight.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/wPawn.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/wPawship.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/wQueen.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/board/image/wRider.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/board/image/wRook.png</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/src/pieces</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/pieces/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/pieces/King.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/pieces/Knight.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/pieces/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/pieces/Pawship.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/pieces/Piece.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/pieces/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/pieces/Rider.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/pieces/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.1/src/tests</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/tests/AllTests.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.1/src/tests/BoardTest.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.1/src/tests/PieceTest.java</path>
+</paths>
+<msg>importing assignment1.1</msg>
+</logentry>
+<logentry
+   revision="3344">
+<author>mjschau2</author>
+<date>2017-02-06T05:33:18.003741Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.0</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/.classpath</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/.project</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.0/.settings</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.0/bin</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/AllTests.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Board.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/BoardTest.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/GameFrame$BoardSetup.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/GameFrame$TileSetup.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/GameFrame.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/GameLoop.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/King.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/Knight.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Pawn.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Piece.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/PieceTest.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Player.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/Queen.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/Rook.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/bBishop.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/bKing.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/bKnight.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/bPawn.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/bQueen.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/bRook.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/wBishop.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/wKing.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/wKnight.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/wPawn.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/bin/wQueen.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/bin/wRook.svg</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.0/images</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/bBishop.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/images/bKing.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/bKnight.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/images/bPawn.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/images/bQueen.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/images/bRook.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/wBishop.svg</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/images/wKing.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/wKnight.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/wPawn.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/wQueen.svg</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/images/wRook.svg</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment1.0/src</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/AllTests.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/Board.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/BoardTest.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/GameFrame.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/GameLoop.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/King.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/Knight.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/Piece.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/PieceTest.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/Player.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment1.0/src/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment1.0/src/Rook.java</path>
+</paths>
+<msg>importing Assignment1.0</msg>
+</logentry>
+<logentry
+   revision="744">
+<author>mjschau2</author>
+<date>2017-01-26T02:26:01.336874Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/HEAD</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/branches</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/config</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/description</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/hooks</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/hooks/applypatch-msg.sample</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/hooks/commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/hooks/post-update.sample</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/hooks/pre-applypatch.sample</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/hooks/pre-commit.sample</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/hooks/pre-push.sample</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/hooks/pre-rebase.sample</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/hooks/prepare-commit-msg.sample</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/hooks/update.sample</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/index</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/info</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/info/exclude</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/logs</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/logs/HEAD</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/logs/refs</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/logs/refs/heads</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/logs/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/logs/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/logs/refs/remotes/origin</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/logs/refs/remotes/origin/HEAD</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/04</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/04/b99ab56aff35f670ae092d497300b5abc9f4de</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/07</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/07/e7531d85c49cacef7018a9aa8e40c17ab340e3</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/0b</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/0b/db141c34f30fb36fc4ededf290b80be8dde768</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/0f</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/0f/41d1fdda89265336fed3890fbf5042da4ea800</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/14</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/14/3bccafae09c31ce5d994f2107cb82a1f0929d9</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/14/cc4f400e38987bd12eb9bd39377e5ca3c0a4dd</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/15</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/15/43d9c2b8b3fd3410b308be256665e78957b0cc</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/1b</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/1b/b48c411d082316f9a0dbb0706652a560c8ec0b</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/1e</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/1e/8278dc98b85ea143fb643e4c9780266feca8a9</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/22</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/22/b19fa856be7507f8968f25bbf0a9ba161edb55</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/22/b608b2a2ad682a35eb6fbac4b7f080b5a708d2</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/27</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/27/ba77dd65f89634ab3319497b7b3556d20475eb</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/2a</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/2a/2fe93846dbce248f46076845dedb40496d8732</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/31</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/31/e54784ecbc84752bded88256aa4d645ccdb9b3</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/31/f90d0fa7bbe7ff93b16908f298e029a7589bf1</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/3a</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/3a/48ca124a56fdff4aed10d94f6c62656a500588</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/3a/a6f765b0e18665917b83b58782313713f19876</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/3e</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/3e/48f5866ea9ecc373ed491a6cee8abc9e6a3962</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/40</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/40/ccefc0c8cca99b8728b614653603712b59cd66</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/42</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/42/f06908ab48f98251482e455e7af1a7932f2531</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/43</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/43/00144190a729fcad1afa45d1e00c46464722de</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/46</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/46/5b32dddaa3ba048bd3b1a2693c99183b2856f3</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/48</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/48/25c3bfe731d8e3dc0495e2c91543023c2ba24b</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/4c</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/4c/2f96892e2e0ac4580b0b64a6394b42981cdd8c</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/4f</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/4f/7722c1b73e2aa85f5c5aaf9047127d85cf5c1d</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/57</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/57/7ba3c9e4ee5835f03ffd2ad35a0840d327b2e2</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/5b</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/5b/5c1245d857f61c24699dd344efdab6dd297ef0</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/5e</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/5e/29598d8243704fe0def767025d4b3e3b4cc8e5</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/64</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/64/fac914adb224038d9c0d8220104911e902af64</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/69</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/69/a5c1d0af3876957084608046c7ca66c967e489</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/6a</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/6a/7a3e3568133d2731bde2e776859030d7818b76</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/72</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/72/00078d98737b8f97e55963aa3c93bb00861805</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/76</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/76/d05f9b57e65f3c94a23a4efb5124e96794f2e9</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/7c</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/7c/15c3f1c5229ae891914840dd8fa06d6badf18b</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/7d</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/7d/fc2e99d7ff7755d3caf0bba3e8c0d82e23dc49</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/85</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/85/e0a798ee70859cfcf1131b80b34cc0f7874cc7</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/89</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/89/cdb693ad78a12b568b4a6f0df8a756804677e2</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/8e</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/8e/17c07e37b6496447271c4eb823623ef830a4ad</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/8f</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/8f/5db0e141f9bde3e216673932351ed5269f809a</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/93</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/93/dac18e155410b6e8494cea7dd2f456e78e01b1</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/97</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/97/58273268f55dba00d24df9c467baa543eba003</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/a5</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/a5/12e4f08904de164bdacdd21d791f2424f887bf</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/a8</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/a8/c93faa9ef41c57bd637e292435f6dc25b376ec</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/aa</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/aa/368d877d9cf91726b1972169fc7c7bbbfcd21a</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/bb</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/bb/5fe2dfd0995e493183db21b74301ec347ab7bc</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/bd</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/bd/5f25926a34cb78108b6911536376a4199ff37b</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/c7</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/c7/cf7dc2439c927fdd7b41cf1732badd66d131a8</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/cb</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/cb/9baacd9fb6dc1f3d8a2a229e3486a21fbb9a0b</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/cc</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/cc/17a2239edb7bcb033bd9660333b7c4182232d9</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/d1</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/d1/15d871522bfab53a432a09972d10820b8ad4e1</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/d1/ca649e80b6a8520a8fd516a5ae7ad8cc3c49a8</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/e1</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/e1/50d093e2a944a535556ddf1707e60b55770f96</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/e4</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/e4/48140509f19e889b68d1919d71fc5367fbe279</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/ea</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/objects/ea/50836bb5a2ab838deaa8e74d746314eeede04c</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/f5</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/f5/2b14ebdc40d37164138ca8042fe23cf2496cd1</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/fe</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/objects/fe/e8ad29f81512d84f30e3c6e611981c57bf2905</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/Assignment0/.git/objects/info</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/objects/pack</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/packed-refs</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/refs</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/refs/heads</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/.git/refs/heads/master</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/refs/remotes</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/refs/remotes/origin</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/.git/refs/remotes/origin/HEAD</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/Assignment0/.git/refs/tags</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/2D_test.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/Project Proposal.docx</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/Python Game Project.pptx</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/README.md</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/Waterflame - Space pirates houseloop-[www_flv2mp3_com].mp3</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/arrow.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/black_square.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/brick_tile.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/constants.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/damaged_brick.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/damaged_brick_2.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/enemy_1.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/game_objects.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/game_runner.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/gold.png</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/maze</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/maze.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/pathfinder.py</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/pygame-1.9.2pre.win-amd64-py2.7.exe</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/python-2.7.3.amd64.msi</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/test.py</path>
+<path
+   action="A"
+   kind="file">/mjschau2/Assignment0/walk_1.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/walk_2.png</path>
+<path
+   kind="file"
+   action="A">/mjschau2/Assignment0/walk_3.png</path>
+</paths>
+<msg>importing assignment0</msg>
+</logentry>
+<logentry
+   revision="741">
+<author>mjschau2</author>
+<date>2017-01-26T02:10:45.951247Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/COPYING</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/bin</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/bin/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/doc/README</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/useOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="739">
+<author>mjschau2</author>
+<date>2017-01-26T02:07:53.390577Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/mjschau2/HW0/.classpath</path>
+<path
+   action="D"
+   kind="file">/mjschau2/HW0/.project</path>
+<path
+   action="D"
+   kind="dir">/mjschau2/HW0/.settings</path>
+<path
+   kind="file"
+   action="D">/mjschau2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="D">/mjschau2/HW0/bin</path>
+<path
+   kind="dir"
+   action="D">/mjschau2/HW0/doc</path>
+<path
+   kind="file"
+   action="D">/mjschau2/HW0/expectedOutput.txt</path>
+<path
+   action="D"
+   kind="file">/mjschau2/HW0/javadoc.xml</path>
+<path
+   action="D"
+   kind="dir">/mjschau2/HW0/src</path>
+<path
+   action="D"
+   kind="file">/mjschau2/HW0/useOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="711">
+<author>mjschau2</author>
+<date>2017-01-26T01:28:26.167899Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/.classpath</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/.project</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/.settings</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/COPYING</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/bin</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/doc</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/doc/README</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/mjschau2/HW0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mjschau2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mjschau2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/mjschau2/HW0/useOutput.txt</path>
+</paths>
+<msg></msg>
+</logentry>
+<logentry
+   revision="524">
+<author>mjschau2</author>
+<date>2017-01-25T03:24:17.964017Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mjschau2/grocery</path>
+<path
+   kind="dir"
+   copyfrom-path="/mjschau2/grocery"
+   copyfrom-rev="523"
+   action="A">/mjschau2/shopping</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="521">
+<author>mjschau2</author>
+<date>2017-01-25T03:19:50.549683Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/mjschau2/grocery/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="520">
+<author>mjschau2</author>
+<date>2017-01-25T03:17:37.829606Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/mjschau2/grocery/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="519">
+<author>mjschau2</author>
+<date>2017-01-25T03:13:50.210266Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="517">
+<author>mjschau2</author>
+<date>2017-01-25T03:10:54.677458Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="514">
+<author>mjschau2</author>
+<date>2017-01-25T03:06:11.381466Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="513">
+<author>mjschau2</author>
+<date>2017-01-25T03:00:52.903968Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="512">
+<author>mjschau2</author>
+<date>2017-01-25T02:57:57.035345Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="511">
+<author>mjschau2</author>
+<date>2017-01-25T02:55:56.711094Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mjschau2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit</msg>
+</logentry>
+<logentry
+   revision="509">
+<author>mjschau2</author>
+<date>2017-01-25T02:53:37.782220Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mjschau2/grocery</path>
+<path
+   kind="file"
+   action="A">/mjschau2/grocery/list1.txt</path>
+<path
+   kind="file"
+   action="A">/mjschau2/grocery/list2.txt</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="110">
+<author>root</author>
+<date>2017-01-24T19:28:04.238581Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mjschau2</path>
+</paths>
+<msg>created directory mjschau2</msg>
+</logentry>
+</log>
